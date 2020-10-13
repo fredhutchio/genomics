@@ -5,6 +5,7 @@
 ## Creating a galaxy instance
 
 - https://sciwiki.fredhutch.org/compdemos/galaxy-on-prem/
+- installs into `fast`, not home directory
 
 ## Loading software for use in galaxy
 
