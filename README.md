@@ -1,10 +1,10 @@
-# Genomics traing materials
+# Genomics training materials
 
 ## Description
 
-This repository contains materials related to development of genomics training as a part of fredhutch.io.
+This repository contains materials related to genomics training through fredhutch.io.
 
-Areas to cover in training are currently summarized in [`topics/](topics/).
+Modules currently in development are listd here: [`topics`](topics/).
 
 Other repositories relevant to genomics training include:
 - [Data for Data Science](https://github.com/fredhutchio/data_for_data_science), which describes the data management skills essential for working with many large genomics data files
@@ -14,10 +14,6 @@ used for pre-processing and filtering raw genomic data
 used for statistical comparisons and visualization of genomic data
 - [scRNAseq](https://github.com/fredhutchio/scRNAseq): analyzing data from single-cell RNAseq experiments,
 which applies skills from both Unix and R
-
-[[links to other materials that have been adapted in this lesson]]
-
-Software requirements for this course can be found on [fredhutch.io's Software page](http://www.fredhutch.io/software/).
 
 ## Resources
 
