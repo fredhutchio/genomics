@@ -1,5 +1,9 @@
 # Choosing bioinformatics methods 
 
+I read a paper that uses different software. What should I choose?
+Can I use a different version of software than described here?
+
+
 Making decisions about analyses: 
 - what algorithms
 - parameters

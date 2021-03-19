@@ -1,4 +1,4 @@
-# Reusing code and software
+# Reusing and troubleshooting code
 
 Obtaining code from other people:
 - StackOverflow
@@ -16,6 +16,8 @@ Obtaining code from other people:
 ## Troubleshooting code
 
 interpreting errors and log files 
+
+How do I figure out what's going wrong?
 
 ## Asking for help
 
