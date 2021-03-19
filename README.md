@@ -18,7 +18,9 @@ See the following pages for answers to commonly asked questions about genomics a
 
 ### Genomics courses
 
-- [Bulk RNAseq analysis](https://github.com/fredhutchio/rnaseq)
+- [RNAseq analysis](https://github.com/fredhutchio/rnaseq): analyzing data from bulk RNAseq, transcriptomic, and differential gene expression experiments. There are two courses available:
+  - [Concepts in RNAseq](https://fredhutchio.github.io/rnaseq/concepts/): lecture-style class, discusses topics in designing RNAseq experiments and steps in analyzing data
+  - [Bulk RNAseq analysis with Unix and R](https://fredhutchio.github.io/rnaseq/skills/): application of Unix and R code to analyze RNAseq data
 - [Single cell RNAseq analysis](https://github.com/fredhutchio/scRNAseq): analyzing data from single-cell RNAseq experiments,
 which applies skills from both Unix and R
 
